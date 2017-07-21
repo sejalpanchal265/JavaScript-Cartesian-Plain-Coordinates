@@ -1,0 +1,6 @@
+1) positive values for the origin - success scenario
+2) negative values for the origin - success scenario
+3) invalid values (string, special char) for the origin - failure scenario
+4) invalid values (string, special char) for the coordinates values - failure scenario
+5) missing json file - failure scenario
+6) invalid, improperly formed json content - failure scenario
